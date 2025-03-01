@@ -21,6 +21,13 @@ curl -sSL https://raw.githubusercontent.com/josephaw1022/AwxKindQuickStart/main/
 
 ## Getting Started with the Makefile
 
+### 0. Install Kind and Helm
+
+Follow the official guidelines according to your OS:
+
+- Kind: https://kind.sigs.k8s.io/docs/user/quick-start/
+- Helm: https://helm.sh/docs/intro/install/
+
 ### 1. Create the Kind Cluster
 
 Use the following command to create your Kind cluster:
